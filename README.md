@@ -1,1 +1,2 @@
 # ESP32S3_RGBLED_Rainbow
+オンボード上のRGBLEDを7色に光らせるサンプルプログラムです。
